@@ -22,6 +22,10 @@
     box-shadow: 0 10px 20px 0 #00000026;
   }
 
+  .links span a:hover {
+    color: #2476FF;
+  }
+
   @keyframes slide-up {
   from {
     opacity: 0;
